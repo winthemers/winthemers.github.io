@@ -1,6 +1,6 @@
 # the winthemers website
 
-<img src="assets/winthemers.png" align="left">
+<img src="assets/winthemers.png" align="left" height="128px" width="128px">
 
 This is the winthemers website, it is created using the [SimpleCSS](https://simplecss.org) CSS framework.
 
