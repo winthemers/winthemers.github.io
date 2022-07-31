@@ -1,0 +1,18 @@
+:root {
+    --accent: #2986e7;
+}
+
+em {
+    opacity: 0.5;
+    font-size: 0.8em;
+    font-style: normal;
+}
+
+.copyright {
+    opacity: 0.5;
+}
+
+nav a.current {
+    color: var(--accent) !important;
+    border-color: var(--accent) !important;
+  }
